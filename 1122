@@ -1,0 +1,17 @@
+For some reason the mp3 files are not working at gainchinese.com.  If you login to gainchinese.com ->Learn Instantly -> Play->Dialogue, then the audio does not work. Can you take a look and let me know what is wrong?
+ 
+        You can use jbossas@sina.com/123456 to login to gainchinese.com
+      
+        However, using direct link below is fine.
+        http://www.gainchinese.com/mp3/d_1.mp3
+        http://www.gainchinese.com/mp3/d_3.mp3
+ 
+        ssh to 204.93.193.122 : root/reach_12
+        DB at 204.93.193.122 : DB name wereach_chinese
+        wereach_chinese/Reach1234
+        
+         gainchinese.com root directory: /home/wereach/jvm/apache-tomcat-6.0.14/domains/gainchinese.com
+ 
+         Also, can you answer the following questions in my previous email dated 11/3 below?
+         Thanks
+
